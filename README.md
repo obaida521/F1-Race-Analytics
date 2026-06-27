@@ -1,21 +1,5 @@
 # 🏎️ F1 Race Strategy Analytics System
 
-<div align="center">
-
-### AI-Powered Formula 1 Race Engineering & Strategy Intelligence Platform
-
-Analyze telemetry. Predict race outcomes. Optimize pit strategies. Generate AI-powered race engineer recommendations.
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-Frontend-black?style=for-the-badge)
-![Google Gemini](https://img.shields.io/badge/Google-Gemini-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-
-</div>
-
----
-
 ## 🚀 Project Overview
 
 The **F1 Race Strategy Analytics System** is an AI-assisted race engineering platform designed to simulate real-world Formula 1 pit wall decision-making.
